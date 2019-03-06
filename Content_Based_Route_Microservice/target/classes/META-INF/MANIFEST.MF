@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Content_Based_Route_Microservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: james
+Implementation-Vendor-Id: com.dwp.sampleMicroservice
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Content_Based_Route_Microservice
+Created-By: Maven Integration for Eclipse
+
